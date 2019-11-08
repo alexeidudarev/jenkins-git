@@ -1,4 +1,4 @@
-# jenkins-git 
+# jenkins-git-demo
 
 A simple project to test jenkins git integration
 
